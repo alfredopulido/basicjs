@@ -1,0 +1,4 @@
+basicjs
+=======
+
+Funciones comunes javascript
